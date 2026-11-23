@@ -1,0 +1,5 @@
+homepage: "https://www.adtiming.com/"
+documentation: "https://github.com/Adtiming/gtm-adt-web-tag/blob/main/README.md"
+versions:
+  - sha: 823fca7cbf17a0ffeb651a96f706df7c0484ea4d
+    changeNotes: Initial release with SDK setup and conversion event tracking.
